@@ -40,3 +40,12 @@ places to ask questions about the Go language.
 
 [rf]: https://reneefrench.blogspot.com/
 [cc4-by]: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [golang/go](https://github.com/golang/go), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: BSD 3-Clause "New" or "Revised" License (mantida sem alterações).
+
+**Fonte original:** https://github.com/golang/go
